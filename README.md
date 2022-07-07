@@ -26,13 +26,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](.ss/desktop1.jpg) 
-![](.ss/desktop2.jpg)
-![](.ss/desktop3.jpg)
+![](.ss/desktop1.png) 
+![](.ss/desktop2.png)
+![](.ss/desktop3.png)
 desktop states
-![](.ss/mobile1.jpg)
-![](.ss/mobile2.jpg)
-![](.ss/mobile3.jpg)
+![](.ss/mobile1.png)
+![](.ss/mobile2.png)
+![](.ss/mobile3.png)
 mobile states
 
 ### Links
