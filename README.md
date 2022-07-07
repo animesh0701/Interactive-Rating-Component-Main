@@ -26,13 +26,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](.ss/desktop1.png) 
-![](.ss/desktop2.png)
-![](.ss/desktop3.png)
+![1](https://github.com/animesh0701/Interactive-Rating-Component-Main/tree/main/ss/desktop1.png) 
+![2](https://github.com/animesh0701/Interactive-Rating-Component-Main/tree/main/ss/desktop2.png)
+![3](https://github.com/animesh0701/Interactive-Rating-Component-Main/tree/main/ss/desktop3.png)
 desktop states
-![](.ss/mobile1.png)
-![](.ss/mobile2.png)
-![](.ss/mobile3.png)
+![4](https://github.com/animesh0701/Interactive-Rating-Component-Main/tree/main/ss/mobile1.png)
+![5](https://github.com/animesh0701/Interactive-Rating-Component-Main/tree/main/ss/mobile2.png)
+![6](https://github.com/animesh0701/Interactive-Rating-Component-Main/tree/main/ss/mobile3.png)
 mobile states
 
 ### Links
