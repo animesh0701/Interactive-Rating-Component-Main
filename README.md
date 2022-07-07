@@ -27,12 +27,12 @@ Users should be able to:
 ### Screenshot
 
 ![1](https://github.com/animesh0701/Interactive-Rating-Component-Main/blob/main/ss/desktop1.png) 
-![2](https://github.com/animesh0701/Interactive-Rating-Component-Main/tree/main/ss/desktop2.png)
-![3](https://github.com/animesh0701/Interactive-Rating-Component-Main/tree/main/ss/desktop3.png)
+![2](https://github.com/animesh0701/Interactive-Rating-Component-Main/blob/main/ss/desktop2.png)
+![3](https://github.com/animesh0701/Interactive-Rating-Component-Main/blob/main/ss/desktop3.png)
 desktop states
-![4](https://github.com/animesh0701/Interactive-Rating-Component-Main/tree/main/ss/mobile1.png)
-![5](https://github.com/animesh0701/Interactive-Rating-Component-Main/tree/main/ss/mobile2.png)
-![6](https://github.com/animesh0701/Interactive-Rating-Component-Main/tree/main/ss/mobile3.png)
+![4](https://github.com/animesh0701/Interactive-Rating-Component-Main/blob/main/ss/mobile1.png)
+![5](https://github.com/animesh0701/Interactive-Rating-Component-Main/blob/main/ss/mobile2.png)
+![6](https://github.com/animesh0701/Interactive-Rating-Component-Main/blob/main/ss/mobile3.png)
 mobile states
 
 ### Links
